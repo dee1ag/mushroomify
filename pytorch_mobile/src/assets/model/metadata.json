@@ -1,0 +1,426 @@
+[
+    {
+        "mushroom_species_name": "Agaricus augustus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Agaricus xanthodermus",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Amanita amerirubescens",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Amanita augusta",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Amanita brunnescens",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Amanita calyptroderma",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Amanita flavoconia",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Amanita muscaria",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Amanita persicina",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Amanita phalloides",
+        "edibility": "deadly"
+    },
+    {
+        "mushroom_species_name": "Amanita velosa",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Armillaria mellea",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Armillaria tabescens",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Artomyces pyxidatus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Bolbitius titubans",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Boletus pallidus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Boletus rex-veris",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Cantharellus californicus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Cantharellus cinnabarinus",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Cerioporus squamosus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Chlorophyllum brunneum",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Chlorophyllum molybdites",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Clitocybe nuda",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Coprinellus micaceus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Coprinopsis lagopus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Coprinus comatus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Crucibulum laeve",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Cryptoporus volvatus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Daedaleopsis confragosa",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Entoloma abortivum",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Flammulina velutipes",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Fomitopsis mounceae",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Galerina marginata",
+        "edibility": "deadly"
+    },
+    {
+        "mushroom_species_name": "Ganoderma applanatum",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Ganoderma curtisii",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Ganoderma oregonense",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Ganoderma tsugae",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Gliophorus psittacinus",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Gloeophyllum sepiarium",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Grifola frondosa",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Gymnopilus luteofolius",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Hericium coralloides",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Hericium erinaceus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Hygrophoropsis aurantiaca",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Hypholoma fasciculare",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Hypholoma lateritium",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Hypomyces lactifluorum",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Ischnoderma resinosum",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Laccaria ochropurpurea",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Lacrymaria lacrymabunda",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Lactarius indigo",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Laetiporus sulphureus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Laricifomes officinalis",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Leratiomyces ceres",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Leucoagaricus americanus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Leucoagaricus leucothites",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Lycogala epidendrum",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Lycoperdon perlatum",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Lycoperdon pyriforme",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Mycena haematopus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Mycena leaiana",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Omphalotus illudens",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Omphalotus olivascens",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Panaeolina foenisecii",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Panaeolus cinctulus",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Panaeolus papilionaceus",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Panellus stipticus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Phaeolus schweinitzii",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Phlebia tremellosa",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Phyllotopsis nidulans",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Pleurotus ostreatus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Pleurotus pulmonarius",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Pluteus cervinus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Psathyrella candolleana",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Pseudohydnum gelatinosum",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Psilocybe allenii",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe aztecorum",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe azurescens",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe caerulescens",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe cubensis",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe cyanescens",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe muliercula",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe neoxalapensis",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe ovoideocystidiata",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe pelliculosa",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Psilocybe zapotecorum",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Retiboletus ornatipes",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Sarcomyxa serotina",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Schizophyllum commune",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Stereum ostrea",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Stropharia ambigua",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Stropharia rugosoannulata",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Suillus americanus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Suillus luteus",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Suillus spraguei",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Tapinella atrotomentosa",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Trametes betulina",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Trametes gibbosa",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Trametes versicolor",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Trichaptum biforme",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Tricholoma murrillianum",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Tricholomopsis rutilans",
+        "edibility": "edible"
+    },
+    {
+        "mushroom_species_name": "Tubaria furfuracea",
+        "edibility": "conditionally_edible"
+    },
+    {
+        "mushroom_species_name": "Tylopilus felleus",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Tylopilus rubrobrunneus",
+        "edibility": "poisonous"
+    },
+    {
+        "mushroom_species_name": "Volvopluteus gloiocephalus",
+        "edibility": "poisonous"
+    }
+]

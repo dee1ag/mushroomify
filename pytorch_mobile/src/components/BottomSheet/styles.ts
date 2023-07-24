@@ -1,0 +1,116 @@
+import { StyleSheet } from 'react-native';
+import { COLORS } from '../../utils/constants';
+
+export const styles = StyleSheet.create({
+  container: {
+    paddingHorizontal: 12,
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    bottom: 0,
+    backgroundColor: 'white',
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 3,
+    },
+    shadowOpacity: 0.29,
+    shadowRadius: 4.65,
+    elevation: 7,
+    zIndex: 3,
+    width: '100%',
+    justifyContent: 'space-between',
+  },
+  dragIcon: {
+    marginVertical: 4,
+    alignSelf: 'center',
+    width: 40,
+    height: 5,
+    borderRadius: 16,
+    backgroundColor: COLORS.grey,
+  },
+  successIcon: {
+    alignSelf: 'center',
+    marginVertical: 12,
+  },
+  header: {
+    alignSelf: 'center',
+    fontSize: 24,
+    fontWeight: '800',
+    letterSpacing: 0.4,
+    color: COLORS.black,
+  },
+  probabilityHeader: {
+    alignSelf: 'flex-end',
+    fontSize: 16,
+    fontWeight: '500',
+    marginBottom: 10,
+    color: COLORS.black,
+  },
+  itemsContainer: {
+    paddingTop: 20,
+  },
+  item: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 10,
+    borderColor: COLORS.black,
+    borderTopWidth: 1,
+  },
+  titleContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  image: {
+    width: 48,
+    height: 48,
+    borderRadius: 4,
+  },
+  checkCircle: {
+    position: 'absolute',
+    width: 14,
+    height: 14,
+    borderRadius: 16,
+    left: 38,
+    top: 38,
+    backgroundColor: COLORS.green,
+  },
+  title: {
+    paddingLeft: 4,
+    fontSize: 16,
+    fontWeight: '500',
+    letterSpacing: 0.2,
+    color: COLORS.black,
+  },
+  probability: {
+    paddingLeft: 4,
+    fontSize: 16,
+    fontWeight: '500',
+    color: COLORS.black,
+  },
+  bottomButtons: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  button: {
+    width: '48%',
+    paddingVertical: 12,
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    borderColor: COLORS.black,
+    borderWidth: 1,
+    borderRadius: 10,
+  },
+  icon: {
+    marginRight: 2,
+  },
+  buttonText: {
+    fontSize: 16,
+    fontWeight: '500',
+    color: COLORS.black,
+  },
+});
